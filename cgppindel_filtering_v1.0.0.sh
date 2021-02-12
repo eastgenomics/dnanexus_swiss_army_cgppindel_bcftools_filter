@@ -39,4 +39,4 @@ done
 # Remove temp and input vcfs to avoid including in output
 echo "Removing temp and input vcf files"
 rm *temp*
-rm *pindel*
+rm *flagged*

@@ -12,4 +12,4 @@ The app's "command line" input is used to execute the above bash script. This co
 - creates a gz and index for filtered VCF (bgzip and tabix)
 
 ## Output
-Filtered VCFs have a suffix of filtered.vcf.gz. The final filtered VCF is a compressed vcf (.vcf.gz).
+Output includes a filtered VCFs (suffix of filtered.vcf.gz) and  its associated tabix index vcf.gz.tbi
